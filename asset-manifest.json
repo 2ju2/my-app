@@ -11,7 +11,7 @@
     "787.00e828f4.chunk.js.map": "/my-app/static/js/787.00e828f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ccaabc7b.js"
+    "/my-app/static/css/main.f855e6bc.css",
+    "/my-app/static/js/main.ccaabc7b.js"
   ]
 }
